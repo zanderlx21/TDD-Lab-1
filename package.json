@@ -1,0 +1,23 @@
+{
+  "name": "testing-jasmine-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanderlx21/Testing-Jasmine-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanderlx21/Testing-Jasmine-Jest/issues"
+  },
+  "homepage": "https://github.com/zanderlx21/Testing-Jasmine-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
